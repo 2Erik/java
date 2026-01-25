@@ -5,6 +5,17 @@ public class Encapsulamiento {
 	private int mes;
 	private int dia;
 	
+	//Constructores
+	public Encapsulamiento(int anio) {
+		this.anio = anio;
+	}
+	
+	public Encapsulamiento(int anio, int mes, int dia) {
+		this.anio = anio;
+		this.mes =  mes;
+		this.dia = dia;
+	}
+	//Metodos getters and setters
 	public int getAnio() {
 		return anio;
 	}

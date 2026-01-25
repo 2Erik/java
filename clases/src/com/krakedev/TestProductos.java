@@ -7,6 +7,11 @@ public class TestProductos {
 		Productos productoB = new Productos();
 		Productos productoC = new Productos();
 		
+		Productos productoD = new Productos("Pera", 0.35);
+		
+		System.out.println("Cnstructor: "+productoD.getNombre());
+		System.out.println("----------------------");
+		
 		productoA.setNombre("Condones");
 		productoA.setDescripcion("Con textura");
 		productoA.setPrecio(2.50);
