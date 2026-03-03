@@ -1,5 +1,7 @@
 package com.krakedev.test;
 
+import com.krakedev.Cuadrado;
+
 public class TestCuadrado {
 
 	public static void main(String[] args) {

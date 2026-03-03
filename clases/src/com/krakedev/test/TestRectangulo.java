@@ -1,5 +1,7 @@
 package com.krakedev.test;
 
+import com.krakedev.Rectangulo;
+
 public class TestRectangulo {
 
 	public static void main(String[] args) {

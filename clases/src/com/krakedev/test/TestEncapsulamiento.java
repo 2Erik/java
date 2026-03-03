@@ -1,5 +1,7 @@
 package com.krakedev.test;
 
+import com.krakedev.Encapsulamiento;
+
 public class TestEncapsulamiento {
 
 	public static void main(String[] args) {

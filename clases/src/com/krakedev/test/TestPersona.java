@@ -1,5 +1,7 @@
 package com.krakedev.test;
 
+import com.krakedev.Persona;
+
 public class TestPersona {
 
 	public static void main(String[] args) {
